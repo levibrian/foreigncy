@@ -1,0 +1,6 @@
+C:\tfs\LT Private Server\DEV\Foreigncy\FCY.Cyborg\bin\Debug\FCY.Cyborg.dll
+C:\tfs\LT Private Server\DEV\Foreigncy\FCY.Cyborg\bin\Debug\FCY.Cyborg.pdb
+C:\tfs\LT Private Server\DEV\Foreigncy\FCY.Cyborg\obj\Debug\FCY.Cyborg.csproj.CoreCompileInputs.cache
+C:\tfs\LT Private Server\DEV\Foreigncy\FCY.Cyborg\obj\Debug\FCY.Cyborg.dll
+C:\tfs\LT Private Server\DEV\Foreigncy\FCY.Cyborg\obj\Debug\FCY.Cyborg.pdb
+C:\tfs\LT Private Server\DEV\Foreigncy\FCY.Cyborg\obj\Debug\FCY.Cyborg.csprojAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\tfs\LT Private Server\DEV\Foreigncy\FCY.Cyborg\bin\Release\FCY.Cyborg.dll
+C:\tfs\LT Private Server\DEV\Foreigncy\FCY.Cyborg\bin\Release\FCY.Cyborg.pdb
+C:\tfs\LT Private Server\DEV\Foreigncy\FCY.Cyborg\obj\Release\FCY.Cyborg.csproj.CoreCompileInputs.cache
+C:\tfs\LT Private Server\DEV\Foreigncy\FCY.Cyborg\obj\Release\FCY.Cyborg.dll
+C:\tfs\LT Private Server\DEV\Foreigncy\FCY.Cyborg\obj\Release\FCY.Cyborg.pdb
