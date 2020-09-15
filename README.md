@@ -1,2 +1,1 @@
-# foreigncy
-Foreigncy
+# Foreigncy app
